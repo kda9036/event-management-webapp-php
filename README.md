@@ -40,6 +40,7 @@ Attendee roles:
 
 Events Page:	
 -	View all events.
+
 Registrations Page:
 -	Select, add, update, delete and view their registrations.
 
