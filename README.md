@@ -53,6 +53,7 @@ Registrations Page:
 -	Your code should be structured to be re-usable and easily maintained. This means extensive use of functions and classes.
 -	All input must be validated and sanitized on the server-side.
 -	ALL DATABASE QUERIES MUST BE PARAMETERIZED QUERIES USING PREPARED STATEMENTS.
+- Database functions use PDO with Object Mapping
 
 # Technologies / Software
 
