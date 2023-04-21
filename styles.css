@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkmagenta;
+}
+
+.mainContainer {
+    max-width: 80%;
+    margin: auto;
+}
+
+.table {
+    table-layout: auto;
+  }
+  
+th {
+    width: 10%;
+}
+
+/* smaller width for first column of tables (ID) */
+tr th:first-child {
+    width: 3%;
+}
+
+#loginForm {
+    max-width: 60%;
+    margin: auto;
+    border: 5px solid darkmagenta;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#loginbtn {
+    margin-top: 20px;
+}

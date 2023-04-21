@@ -1,0 +1,4 @@
+SetEnv DB kda9036
+SetEnv DB_PASSWORD Barnstormer9&maleficence
+SetEnv DB_SERVER localhost
+SetEnv DB_USER kda9036
