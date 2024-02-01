@@ -44,6 +44,7 @@ Events Page:
 Registrations Page:
 -	Select, add, update, delete and view their registrations.
 
+Other:
 -	CSS (in external style sheets) should be used.
 -	The site will pass HTML5 validation.
 -	All pages must share common visual and navigation elements.
